@@ -12,7 +12,7 @@
  -  UX Techniques [D]
  -  Jenkins [Di] 
  -  Docker [Di, A]
- -  SonarQueue [Di]
+ -  SonarQube [Di]
  
 ## Transversal Tools
  
